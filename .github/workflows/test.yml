@@ -1,0 +1,16 @@
+name: Testy strony
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  testy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobranie kodu
+        uses: actions/checkout@v7
+
+      - name: Sprawdzenie stron HTML
+        run: bash test.sh
