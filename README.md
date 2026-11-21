@@ -24,3 +24,5 @@ Nauka podstaw pracy z Git.
 Materiały powstają w trakcie kursu.
 
 Dodana zmiana.
+
+Jeszcze jedna zmiana.
