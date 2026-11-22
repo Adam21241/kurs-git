@@ -1,0 +1,12 @@
+# Pliki tymczasowe
+temp.txt
+*.tmp
+
+# Logi
+*.log
+
+# Wyniki kompilacji
+/build/
+
+# Lokalna konfiguracja
+config.local.txt
