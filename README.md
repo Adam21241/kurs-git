@@ -20,3 +20,5 @@ Nauka podstaw pracy z Git.
 - HTML
 - CSS
 - Git
+
+Materiały powstają w trakcie kursu.
