@@ -14,3 +14,9 @@ Nauka podstaw pracy z Git.
 - Strona główna
 - O projekcie
 - Kontakt
+
+## Technologie
+
+- HTML
+- CSS
+- Git
