@@ -1,6 +1,6 @@
 # Kurs Git
 
-Projekt wykorzystywany podczas nauki systemu Git.
+Projekt wykorzystywany podczas nauki systemu Git na kursie dla nauczycieli.
 
 Autor: Jan Kowalski
 Temat: podstawy kontroli wersji
